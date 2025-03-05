@@ -4,7 +4,7 @@ const Navigation = () => {
   return (
     <nav className= {`${styles.navigation} container`}>
         <div className='logo'>
-            <img src="public/images/logo.png" alt="" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/my-application-df392.appspot.com/o/logo.png?alt=media&token=ebcce5ed-e894-4eb7-ac26-0424f466e03c" alt="" />
         </div>
         <ul>
             <li>Home</li>

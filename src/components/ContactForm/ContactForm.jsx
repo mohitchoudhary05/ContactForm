@@ -59,7 +59,7 @@ const ContactForm = () => {
         </form>
       </div>
       <div className={styles.contact_image}>
-        <img src='/public/images/service.svg' alt="contact image" />
+        <img src='https://firebasestorage.googleapis.com/v0/b/my-application-df392.appspot.com/o/service.svg?alt=media&token=3b01494e-d6ec-4f30-8126-57594ec32646' alt="contact image" />
       </div>
     </section>
   );
